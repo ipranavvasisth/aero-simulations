@@ -156,8 +156,7 @@ These require CFD approaches beyond the scope of this simulation.
 
 ---
 
-## References
+## Plots
 
-- Anderson, J.D. — Introduction to Flight
-- Anderson, J.D. — Modern Compressible Flow
-- Mattingly, J.D. — Elements of Propulsion: Gas Turbines and Rockets
+- Plot of the rocket nozzle flow 
+(plots/rocket-nozzle-dist.png)
