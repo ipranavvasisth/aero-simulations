@@ -11,7 +11,7 @@ fluid and its surroundings. The fluid doesn't gain heat from a
 combustion source nearby nor does it lose its heat to the 
 surroundings.
 
-- **Reversible** — There are no friction losses within the flow. 
+- **Reversible** — There are no friction losses within the flow.
 This means there is no internal friction, which is known as 
 viscosity, and no turbulence as well.
 
@@ -115,6 +115,6 @@ curve rather than a single calculated point.
 ---
 
 ## References
-- Anderson, J.D. — Modern Compressible Flow
-- Anderson, J.D. — Introduction to Flight
-- Cengel & Cimbala — Fluid Mechanics
+- Anderson, J.D. — Modern Compressible Flow.
+- Anderson, J.D. — Introduction to Flight.
+- Cengel & Cimbala — Fluid Mechanics.
